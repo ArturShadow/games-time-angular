@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: url('https://media.kasperskydaily.com/wp-content/uploads/sites/37/2020/02/19182306/game-ratings-featured.jpg') #000 no-repeat fixed center;
+    background-size: cover;
+    height: 500px;
+    
+}
+header span{
+    font-size: 40px;
+}
